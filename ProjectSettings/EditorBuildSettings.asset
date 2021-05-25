@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI/Main Menu.unity
+    guid: 7cf58dfa78afe47729f918908a970be0
+  - enabled: 0
+    path: Assets/Scenes/TPC Camera Fix.unity
+    guid: dc432effddf2647d8ba7aa93b90385d5
+  - enabled: 1
+    path: Assets/Toon City/Scenes/TPC New Market.unity
+    guid: 3ac28af69ac9b462ca63d65b08200fdc
   m_configObjects: {}
